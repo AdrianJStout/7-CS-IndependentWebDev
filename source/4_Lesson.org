@@ -108,13 +108,9 @@
 :HTML_CONTAINER_CLASS: badge
 :END:
 
-*Silver*
-  - Publish your webpage (your html file) to the student web.
-  - Test your webpage by opening it in a browser:
-    https://studentweb/~04as11 (replace 04as11 with your own login ID)
 
 *Gold*
-  - Publish your webpage along with your css file to the student web.
+  - Publish your webpage along with your external css file to the student web.
   - Test your webpage and style sheet work by opening it in a browser:
     https://studentweb/~04as11 (replace 04as11 with your own login ID)
 

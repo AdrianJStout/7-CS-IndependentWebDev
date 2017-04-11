@@ -101,7 +101,8 @@
 - The following are six webpage layouts that you can pick from for your independent web development poject.
 - Click on each one to see what a finished webpage may look like.
 - There will be a contest at the end of this project across year group in different categories(will be anounced here soon).
-- To start with, please follow this tutorial on how to get your webpage centered.
+- Please follow this tutorial on how to get your webpage started.
+
 #+BEGIN_HTML
 
 <table>
@@ -139,9 +140,11 @@
 #+END_HTML
 
 - Useful resources on the Internet
- + pick a colour: href='http://www.w3schools.com/cssref/css_colors.asp'
- + if you forget about some tags or just what to learno some new ones:href='http://www.w3schools.com/html/default.asp'
- + if you would like to learn more CSS style tricks: href='http://www.w3schools.com/css/default.asp'
+
+  + [[http://www.w3schools.com/cssref/css_colors.asp][HTML colour picker]]
+  + if you forget about some tags or just what to learn some new ones, [[http://www.w3schools.com/html/default.asp][w3school]]s 
+  + if you would like to learn more CSS style tricks, also on [[http://www.w3schools.com/css/default.asp][w3schools]]. 
+
 
 ** Badge It - Silver
 :PROPERTIES:
