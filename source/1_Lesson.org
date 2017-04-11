@@ -1,0 +1,119 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+HTML_HEAD_EXTRA: <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+#+HTML_HEAD_EXTRA: <script src="js/navbar.js" type="text/javascript"></script>
+#+OPTIONS: f:nil author:nil num:nil creator:nil timestamp:nil toc:nil html-style:nil
+
+#+TITLE: Web Design
+#+AUTHOR: Xiaohui Ellis
+
+#+BEGIN_HTML
+  <div class="github-fork-ribbon-wrapper left">
+    <div class="github-fork-ribbon">
+      <a href="https://github.com/stsb11/7-CS-webDesign">Fork me on GitHub</a>
+    </div>
+  </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Week1</a></li>
+      <li><a href="2_Lesson.html">Week2</a></li>
+      <li><a href="3_Lesson.html">Week3</a></li>
+      <li><a href="4_Lesson.html">Week4</a></li>
+
+      <li><a href="Homework.html">Homework</a></li>
+
+
+    </ul>
+  </div>
+#+END_HTML
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* External Style Sheet
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+  - Last term, we have learned how to style our webpages by placing some CSS (cascading style sheet) code between the start =<style>= and the =</style>= tags in between the head tags.
+  - Professional web developers prefer to use separate CSS files also known as =external style sheet= so they can use the same style sheet on different webpages(html files) without have to write the same code again and again. 
+  - For those who have already learned how to separate the CSS from the html files and link them together, you an skip this session and move to the next. For those who have not, read on.
+  - Using an external style sheet is especially useful when you want to change the look of all your webpages. Because you only need to change one style sheet file and then all the webpages use this style sheet will all have been changed.
+    - To sparate the CSS style sheet from your webpage html file, do the following:
+      1. Open a new file using Sublime Text or Notepad.
+      2. Open your existing webpage file with style using Sublime Text or Notepad.
+      3. Hightlight to select all the content in between the <style> and </style> in your webpage file. (not select the <style> and </style> tage). 
+      4. Copy the slection.
+      5. Go to the blank new file and paste the selection
+      6. Save the new file as style.css in the same folder as your webpage file.
+      7. Go back to your webpage file, remove the two style tags. In its place, add the link to your new styles.css file using the code below:
+         #+BEGIN_SRC html
+<link rel="stylesheet" href="styles.css">
+
+#+END_SRC
+      8. Save your webpage file and test to see if your webpage still looks the same. 
+   

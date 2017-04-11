@@ -1,0 +1,157 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+HTML_HEAD_EXTRA: <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+#+HTML_HEAD_EXTRA: <script src="js/navbar.js" type="text/javascript"></script>
+#+OPTIONS: f:nil author:nil num:nil creator:nil timestamp:nil toc:nil html-style:nil
+
+#+TITLE: Web Design
+#+AUTHOR: Xiaohui Ellis
+
+#+BEGIN_HTML
+  <div class="github-fork-ribbon-wrapper left">
+    <div class="github-fork-ribbon">
+      <a href="https://github.com/stsb11/7-CS-webDesign">Fork me on GitHub</a>
+    </div>
+  </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Week1</a></li>
+      <li><a href="2_Lesson.html">Week2</a></li>
+      <li><a href="3_Lesson.html">Week3</a></li>
+      <li><a href="4_Lesson.html">Week4</a></li>
+
+      <li><a href="Homework.html">homework</a></li>
+    </ul>
+  </div>
+#+END_HTML
+
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* The Independent Web Development
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- The following are six webpage layouts that you can pick from for your independent web development poject.
+- Click on each one to see what a finished webpage may look like.
+- There will be a contest at the end of this project across year group in different categories(will be anounced here soon).
+- To start with, please follow this tutorial on how to get your webpage centered.
+#+BEGIN_HTML
+
+<table>
+<tr>
+<td><a target="_self" href="basic1-examples.html"><img src="./img/layout-basic1.jpg" alt="layout-1" width="320" height="280"></a>
+</td>
+<td>Basic Layout 1</td>
+</tr>
+<tr>
+<td><a target="_self" href="basic2-examples.html"><img src="./img/layout-basic2.jpg" alt="layout-2" width="320" height="280"></a>
+</td>
+<td>Basic Layout 2</td>
+</tr>
+<tr>
+<td><a target="_self" href="medium1-examples.html">	<img src="./img/layout-mid1.jpg" alt="medium layout 1" width="320" height="280"></a>
+</td>
+<td>Medium Layout 1</td>
+</tr>
+<tr>
+<td><a target="_self" href="medium2-examples.html">	<img src="./img/layout-med2.jpg" alt="medium layout 2" width="320" height="280"></a>
+</td>
+<td>Medium Layout 2</td>
+</tr>
+<tr>	
+<td><a target="_self" href="adv1-examples.html"><img src="./img/layout-adv2.jpg" alt="Advanced Layout 1" width="320" height="280"></a>
+</td>
+<td>Advanced Layout 1</td>
+</tr>
+<tr>
+<td><a target="_self" href="adv2-examples.html"><img src="./img/layout-adv1.jpg" alt="advanced layout 2" width="320" height="280"></a>
+</td>
+<td>Advanced Layout 2</td>
+</tr>
+</table>
+#+END_HTML
+
+- Useful resources on the Internet
+ + pick a colour: href='http://www.w3schools.com/cssref/css_colors.asp'
+ + if you forget about some tags or just what to learno some new ones:href='http://www.w3schools.com/html/default.asp'
+ + if you would like to learn more CSS style tricks: href='http://www.w3schools.com/css/default.asp'
+
+** Badge It - Silver
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+- Pick a layout from the above
+- Pick the content you website will be focusing on
+- Pick the audience your website will be targeting at
+- Using the Paint program, starting by drawing the choosen layout, then filling in the layout with specifics on background colours, and where your links, images and paragraphs etc will go.
+- Upload your finished design to bournetolearn.
+
+

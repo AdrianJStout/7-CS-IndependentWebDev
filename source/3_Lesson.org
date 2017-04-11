@@ -1,0 +1,123 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+HTML_HEAD_EXTRA: <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+#+HTML_HEAD_EXTRA: <script src="js/navbar.js" type="text/javascript"></script>
+#+OPTIONS: f:nil author:Xiaohui Ellis num:nil creator:nil timestamp:nil toc:nil html-style:nil
+
+#+TITLE: Web Design
+#+AUTHOR: Xiaohui Ellis
+
+#+BEGIN_HTML
+  <div class="github-fork-ribbon-wrapper left">
+    <div class="github-fork-ribbon">
+      <a href="https://github.com/digixc/7-CS-IndependentWebDev">Fork me on GitHub</a>
+    </div>
+  </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Week1</a></li>
+      <li><a href="2_Lesson.html">Week2</a></li>
+      <li><a href="3_Lesson.html">Week3</a></li>
+      <li><a href="4_Lesson.html">Week4</a></li>
+      <li><a href="Homework.html">homework</a></li>
+    </ul>
+  </div>
+#+END_HTML
+
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* Self Progress Checking
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+
+** Badge It - The DIVs
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+- Once you have created the general layput and tested your webpage is working as intended, click [[https://www.bournetolearn.com/quizzes/y7-webDesign/Lesson_2/][here]] for the self assessment. You will be awarded *Silver*, *Gold* badges based on your progress.
+- You can always come back here to re-take the assessment quiz once you have finished the task.
+
+
+
+** Badge It - Links and Images
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+- Once you have created the general layout and tested your webpage is working as intended, then you will add links and images as you have planned in your design.
+- Click [[https://www.bournetolearn.com/quizzes/y7-webDesign/Lesson_2/][here]] for the self assessment. You will be awarded *Silver*, *Gold* , *Platinum* badges based on your progress.
+- You can always come back here to re-take the assessment quiz once you have finished the task.
+
+
+** Badge It - The Finer Touches
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+- Once you have created the general layout and tested your webpage is working as intended, click [[https://www.bournetolearn.com/quizzes/y7-webDesign/Lesson_2/][here]] for the self assessment. You will be awarded *Silver*, *Gold*, *Platinum* badges based on your progress.
+- You can always come back here to re-take the assessment quiz once you have finished the task.
