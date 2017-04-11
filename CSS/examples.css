@@ -1,0 +1,62 @@
+#container
+{
+	margin: 0 auto;
+	width: 100%;
+	background: #fff;
+}
+
+#header
+{
+	background: #FF9900;
+	padding: 20px;
+	border-bottom: 5px dotted red;
+}
+
+#header h1 { 
+	margin: 0;
+	color: white;
+	text-align: center; }
+
+
+#aside li {
+	list-style: none;
+}
+
+#content-container
+{
+	float: left;
+	width: 100%;
+}
+
+#content
+{
+	
+	border-left: 2px solid lightgray;
+	float: right;
+	width: 60%;
+	padding: 20px;
+	margin: 2% 0 0 4%;
+	display: inline;
+}
+
+#content h2 { margin: 0; }
+
+#aside
+{
+	float: left;
+	width: 26%;
+	padding: 20 10 0 60;
+	margin: 0 0 0 3%;
+	display: inline;
+}
+
+#aside h3 { margin: 0; }
+
+#footer
+{
+	clear: left;
+	background: #ccc;
+	text-align: right;
+	padding: 20px;
+	height: 1%;
+}
