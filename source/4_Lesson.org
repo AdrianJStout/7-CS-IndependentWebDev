@@ -112,7 +112,21 @@
 *Gold*
   - Publish your webpage along with your external css file to the student web.
   - Test your webpage and style sheet work by opening it in a browser:
-    https://studentweb/~04as11 (replace 04as11 with your own login ID)
+    https://studentweb/~04xe11 (replace 04xe11 with your own login ID)
 
 *Platinum*
   - All the above, but with two linked webpages which use an external CSS file and all images used worked correctly.
+
+
+- Once you have published your work, send your website link to your friends and ask your friend give you some feedback. 
+- After your friend had a look at your website, take this [[https://www.bournetolearn.com/quizzes/y7-webIndDev/Lesson_5/index.php][sef-assessment]] quiz with your friend. 
+
+*Literacy* 
+  - After you have done publishing your website and your friend had given you some feedback, write a 200 words =self evaluation= of your website.
+    - what is good about it in general?
+    - is the disign appropriate for the content and the intended audience?
+    - is the choice of fonts, images, or colour appropriate for the designed website?
+    - what is the feedback your friend gave you and what do you think about the feedback?
+    - what is not so good about it and why?
+    - if you are going to start it all over again, what will you do differently and why?
+- Upload your written evaluation to bournetolearn.com

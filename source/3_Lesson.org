@@ -99,7 +99,7 @@
 :HTML_CONTAINER_CLASS: badge
 :END:
 
-- Once you have created the general layput and tested your webpage is working as intended, click [[https://www.bournetolearn.com/quizzes/y7-webDesign/Lesson_2/][here]] for the self assessment. You will be awarded *Silver*, *Gold* badges based on your progress.
+- Once you have created the general layput and tested your webpage is working as intended, click [[https://www.bournetolearn.com/quizzes/y7-webIndDev/Lesson_2/index.php][here]] for the self assessment. You will be awarded *Silver*, *Gold* and/or *Platinum* badges based on your progress.
 - You can always come back here to re-take the assessment quiz once you have finished the task.
 
 
@@ -110,8 +110,9 @@
 :END:
 
 - Once you have created the general layout and tested your webpage is working as intended, then you will add links and images as you have planned in your design.
-- Click [[https://www.bournetolearn.com/quizzes/y7-webDesign/Lesson_2/][here]] for the self assessment. You will be awarded *Silver*, *Gold* , *Platinum* badges based on your progress.
-- You can always come back here to re-take the assessment quiz once you have finished the task.
+- Click [[https://www.bournetolearn.com/quizzes/y7-webIndDev/Lesson_3/index.php][here]] for the self assessment. You will be awarded *Silver*, *Gold* , *Platinum* badges based on your progress.
+- You can always come back here to re-take the assessment quiz once you 
+  have finished the task.
 
 
 ** Badge It - The Finer Touches
@@ -119,5 +120,5 @@
 :HTML_CONTAINER_CLASS: badge
 :END:
 
-- Once you have created the general layout and tested your webpage is working as intended, click [[https://www.bournetolearn.com/quizzes/y7-webDesign/Lesson_2/][here]] for the self assessment. You will be awarded *Silver*, *Gold*, *Platinum* badges based on your progress.
+- Once you have created the general layout and tested your webpage is working as intended, click [[https://www.bournetolearn.com/quizzes/y7-webIndDev/Lesson_4/index.php][here]] for the self assessment. You will be awarded *Gold*,and/or *Platinum* badges based on your progress.
 - You can always come back here to re-take the assessment quiz once you have finished the task.
