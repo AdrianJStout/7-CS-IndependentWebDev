@@ -116,4 +116,15 @@
 
 #+END_SRC
       8. Save your webpage file and test to see if your webpage still looks the same. 
+
+- You can also follow this video tutorial to learn how to use external style sheet.
+
+#+BEGIN_HTML
+
+<video width="640" height="480" controls>
+  <source src="./img/externalStyleSheet.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+#+END_HTML
    
