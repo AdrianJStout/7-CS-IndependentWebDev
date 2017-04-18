@@ -168,4 +168,16 @@
 
 - Upload your finished design to bournetolearn.
 
+  
+** Badge It - Gold
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+- Use pen, paper and a ruler to draw each DIV with the appropriate deminsion.
+- Here is an example of such work:
+   [[./img/designDivs.png]]
+
+- Take a photo of your finished work and upload to bournetolearn.
+
 
