@@ -164,6 +164,8 @@
 - Pick the content you website will be focusing on
 - Pick the audience your website will be targeting at
 - Using the Paint program, starting by drawing the choosen layout, then filling in the layout with specifics on background colours, and where your links, images and paragraphs etc will go.
+- Using the text tool in Paint to specify the audience and topic you have choosen.
+
 - Upload your finished design to bournetolearn.
 
 

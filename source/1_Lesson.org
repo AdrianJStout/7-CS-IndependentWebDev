@@ -107,12 +107,12 @@
       1. Open a new file using Sublime Text or Notepad.
       2. Open your existing webpage file with style using Sublime Text or Notepad.
       3. Hightlight to select all the content in between the <style> and </style> in your webpage file. (not select the <style> and </style> tage). 
-      4. Copy the slection.
-      5. Go to the blank new file and paste the selection
+      4. Cut the slection (Ctrl-X).
+      5. Go to the blank new file and paste the selection (Ctrl-V)
       6. Save the new file as style.css in the same folder as your webpage file.
       7. Go back to your webpage file, remove the two style tags. In its place, add the link to your new styles.css file using the code below:
          #+BEGIN_SRC html
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="style.css">
 
 #+END_SRC
       8. Save your webpage file and test to see if your webpage still looks the same. 
