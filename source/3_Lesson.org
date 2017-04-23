@@ -99,9 +99,10 @@
 :HTML_CONTAINER_CLASS: badge
 :END:
 
+- There is a [[./img/Wrapper-topbox-container.mp4][video tutorial]] here about creating a wrapper, a topbox and a container you may find it useful to help you get started. 
+- There is [[./img/leftbox-twoRightboxes.mp4][another video tutorial]] here about creating left and right boxes/DIVs inside a container.
 - Once you have created the general layout and tested your webpage is working as intended, click [[https://www.bournetolearn.com/quizzes/y7-webIndDev/Lesson_2/index.php][here]] for the self assessment. You will be awarded *Silver*, *Gold* and/or *Platinum* badges based on your progress.
 - You can always come back here to re-take the assessment quiz once you have finished the task.
-
 
 
 ** Badge It - Links and Images
@@ -110,15 +111,18 @@
 :END:
 
 - Once you have created the general layout and tested your webpage is working as intended, then you will add links and images as you have planned in your design.
+- There is a video tutrial on [[./img/background-images.mp4][how to use images as background]] in your DIVs.
+- This video tutorial (coming soon) is on how to style hyperlinks so when hoverover, they change colour.
+- This video tutorial (coming soon) is on how to style the links so they appear in a line with a vertical bar between them.
 - Click [[https://www.bournetolearn.com/quizzes/y7-webIndDev/Lesson_3/index.php][here]] for the self assessment. You will be awarded *Silver*, *Gold* , *Platinum* badges based on your progress.
 - You can always come back here to re-take the assessment quiz once you 
   have finished the task.
-
 
 ** Badge It - The Finer Touches
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
 
+- There is a video tutorial(coming soon) on how to style your webpages to make it look amazing by adding border styles, shadows, padding, and margins.
 - Once you have created the general layout and tested your webpage is working as intended, click [[https://www.bournetolearn.com/quizzes/y7-webIndDev/Lesson_4/index.php][here]] for the self assessment. You will be awarded *Gold*,and/or *Platinum* badges based on your progress.
 - You can always come back here to re-take the assessment quiz once you have finished the task.
