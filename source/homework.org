@@ -107,13 +107,33 @@
   2. The advantages and disadvantges of each.
   3. When is better to use one type over the other.
 
-** Homework 2 - Identify the errors
+** Homework 2 - On the border
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
 
-- coming soon
-	 
+- We have learned adding border to a DIV
+- You can also add a shadow to a DIV to make it look floating like this one below:
+  #+BEGIN_HTML
+
+<div style=" width: 300px;
+    height: 100px;
+    background-color: lightblue;
+    box-shadow: 10px 10px 5px #888888;"></div>
+
+  #+END_HTML
+	
+- Take a look at[[https://www.w3schools.com/cssref/css3_pr_box-shadow.asp][ this website]] on how to add shadow to a DIV by using CSS style like the following:
+  #+BEGIN_SRC 
+   #topbox { 
+       width: 800px;
+       height: 150px;
+       background-color: lightblue;
+       box-shadow: 10px 10px 5px #888888;
+   }
+  #+END_SRC
+- your homework:
+  - explain what each of the numbers means after the box-shadow. For example, what does each of the =10px 10px 5px  #88888= mean?
 ** Homework 3 - Literacy Task
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
