@@ -138,6 +138,9 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- coming soon
+- Websites are meant to be published online for everyone to see.
+- Companies try very hard to get their websites to show up on Google search to attract traffic to their sites.
+- One way to do this is to have a domain name that is easier to remember, like the bournetocode.com.
+- Research online to find out at least 3 ways websites can improve their ranking on Google search. Write your result in good English with at least 150 words.
 
 
